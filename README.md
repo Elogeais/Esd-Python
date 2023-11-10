@@ -1,2 +1,2 @@
-# Esd-Python
+# esd-python
 Suivi de notre cursus scolaire 
